@@ -1,5 +1,5 @@
 {
-  "name": "confusion",
+  "name": "dir",
   "version": "1.0.0",
   "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
@@ -8,9 +8,22 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "Ankita Gupta",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
-  }
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.12.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak566g/Bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ak566g/Bootstrap/issues"
+  },
+  "homepage": "https://github.com/ak566g/Bootstrap#readme"
 }
